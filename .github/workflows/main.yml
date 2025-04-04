@@ -1,4 +1,4 @@
-name: Avica
+name: SmallCarrot
  
 on:
   workflow_dispatch:
